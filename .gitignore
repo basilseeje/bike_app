@@ -1,0 +1,13 @@
+# Ignore model files
+*.pkl
+
+# Ignore media & data
+*.csv
+*.zip
+*.mp4
+*.jpg
+*.png
+
+# Ignore folders
+data/
+media/
